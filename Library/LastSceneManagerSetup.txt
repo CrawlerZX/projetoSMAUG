@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Teste_vinicius/cena_teste.unity
+  isLoaded: 1
+  isActive: 1
